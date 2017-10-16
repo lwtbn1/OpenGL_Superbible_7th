@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/9/10 18:15:16。
+     1>项目“D:\CodeSpace\opengl_superbible_7th\sb7code-master\sb7.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\CodeSpace\opengl_superbible_7th\sb7code-master\include" /I"D:\CodeSpace\opengl_superbible_7th\sb7code-master\extern\glfw-3.0.4\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Fo"sb7.dir\Debug\\" /Fd"sb7.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "D:\CodeSpace\opengl_superbible_7th\sb7code-master\src\sb7\gl3w.c"
+         gl3w.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\CodeSpace\opengl_superbible_7th\sb7code-master\lib\sb7_d.lib" /NOLOGO   /machine:X86 sb7.dir\Debug\sb7.obj
+         sb7.dir\Debug\sb7color.obj
+         sb7.dir\Debug\sb7ktx.obj
+         sb7.dir\Debug\sb7object.obj
+         sb7.dir\Debug\sb7shader.obj
+         sb7.dir\Debug\sb7textoverlay.obj
+         sb7.dir\Debug\gl3w.obj
+         sb7.vcxproj -> D:\CodeSpace\opengl_superbible_7th\sb7code-master\lib\sb7_d.lib
+     1>已完成生成项目“D:\CodeSpace\opengl_superbible_7th\sb7code-master\sb7.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.24

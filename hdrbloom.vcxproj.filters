@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\CodeSpace\opengl_superbible_7th\sb7code-master\src\hdrbloom\hdrbloom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\CodeSpace\opengl_superbible_7th\sb7code-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B878A9AC-AC44-33D0-865C-17236E645086}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

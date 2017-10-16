@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/2/12 14:27:30。
+     1>项目“D:\CodeSpace\opengl_superbible_7th\sb7code-master\hdrbloom.vcxproj”在节点 7 上(Build 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/CodeSpace/opengl_superbible_7th/sb7code-master/CMakeLists.txt
+         CMake does not need to re-run because D:/CodeSpace/opengl_superbible_7th/sb7code-master/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\CodeSpace\opengl_superbible_7th\sb7code-master\include" /I"D:\CodeSpace\opengl_superbible_7th\sb7code-master\extern\glfw-3.0.4\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Fo"hdrbloom.dir\Debug\\" /Fd"hdrbloom.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "D:\CodeSpace\opengl_superbible_7th\sb7code-master\src\hdrbloom\hdrbloom.cpp"
+         hdrbloom.cpp
+     1>D:\CodeSpace\opengl_superbible_7th\sb7code-master\src\hdrbloom\hdrbloom.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\CodeSpace\opengl_superbible_7th\sb7code-master\include\sb7.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\codespace\opengl_superbible_7th\sb7code-master\include\sb7ext.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\CodeSpace\opengl_superbible_7th\sb7code-master\include\object.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\codespace\opengl_superbible_7th\sb7code-master\include\sb6mfile.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CodeSpace\opengl_superbible_7th\sb7code-master\bin\hdrbloom_d.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:/CodeSpace/opengl_superbible_7th/sb7code-master/lib" /LIBPATH:"D:/CodeSpace/opengl_superbible_7th/sb7code-master/lib/Debug" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib lib\sb7_d.lib glfw3_d.lib glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/CodeSpace/opengl_superbible_7th/sb7code-master/bin/hdrbloom_d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/CodeSpace/opengl_superbible_7th/sb7code-master/lib/hdrbloom_d.lib" /MACHINE:X86 /SAFESEH   /machine:X86 hdrbloom.dir\Debug\hdrbloom.obj
+         hdrbloom.vcxproj -> D:\CodeSpace\opengl_superbible_7th\sb7code-master\bin\hdrbloom_d.exe
+     1>已完成生成项目“D:\CodeSpace\opengl_superbible_7th\sb7code-master\hdrbloom.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.75

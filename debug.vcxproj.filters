@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CodeSpace\opengl_superbible_7th\sb7code-master\CMakeLists.txt" />
+    <CustomBuild Include="D:\CodeSpace\opengl_superbible_7th\sb7code-master\CMakeFiles\e3c11ba139d76cd578278c17e70142cc\debug.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\CodeSpace\opengl_superbible_7th\sb7code-master\CMakeFiles\debug" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{062160FC-642E-3C35-96CE-ECD367020651}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
